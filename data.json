@@ -1,0 +1,71 @@
+{
+  "generatedAt": "2026-11-12T12:00:00+09:00",
+  "items": [
+    {
+      "feed": "engine",
+      "title": "구글, Gemini Omni 1.2 Flash 출시 — 15초·30% 저렴한 영상 생성",
+      "reason": "생성 엔진 자체의 업데이트 소식이에요.",
+      "host": "thedailystar.net",
+      "url": "https://www.thedailystar.net/news/technology/news/google-cuts-ai-video-costs-30-gemini-omni-12-flash-4321146",
+      "date": "2026-11-11T00:00:00Z"
+    },
+    {
+      "feed": "engine",
+      "title": "Kling 4.0 공식 API 개방 — 30초 클립·키프레임 10개",
+      "reason": "생성 엔진 자체의 업데이트 소식이에요.",
+      "host": "journal.everypixel.com",
+      "url": "https://journal.everypixel.com/ai-image-video-news-october-early-november-2026",
+      "date": "2026-11-11T00:00:00Z"
+    },
+    {
+      "feed": "engine",
+      "title": "Adobe MAX 2026 — 포토샵 Relight·Generative Restyle 정식 출시",
+      "reason": "생성 엔진 자체의 업데이트 소식이에요.",
+      "host": "gigazine.net",
+      "url": "https://gigazine.net/news/20261111-adobe-creative-tools-mcp-support/",
+      "date": "2026-11-10T00:00:00Z"
+    },
+    {
+      "feed": "engine",
+      "title": "Mistral Large 4, 1조 파라미터 오픈 웨이트 공개",
+      "reason": "생성 엔진 자체의 업데이트 소식이에요.",
+      "host": "aitoolsrecap.com",
+      "url": "https://aitoolsrecap.com/Blog/ai-news-november-09-2026",
+      "date": "2026-11-09T00:00:00Z"
+    },
+    {
+      "feed": "other",
+      "title": "당근, AI로 광고 계정 관리 열어…GEO 도입도 확산",
+      "reason": "생성형 AI 업계 전반의 소식이에요.",
+      "host": "industryjournal.co.kr",
+      "url": "https://industryjournal.co.kr/news/248105",
+      "date": "2026-11-11T00:00:00Z"
+    },
+    {
+      "feed": "other",
+      "title": "9개국 조사: 절반 이상이 매주 AI 도구 사용",
+      "reason": "생성형 AI 업계 전반의 소식이에요.",
+      "host": "aiweekly.co",
+      "url": "https://aiweekly.co/ai-news-today",
+      "date": "2026-11-11T00:00:00Z"
+    },
+    {
+      "feed": "other",
+      "title": "AI 스크라이브 기업 Heidi, 직원 100명 이상 감원",
+      "reason": "생성형 AI 업계 전반의 소식이에요.",
+      "host": "longsha.substack.com",
+      "url": "https://longsha.substack.com/p/genai-weekly-week-of-nov-9th-2026",
+      "date": "2026-11-09T00:00:00Z"
+    },
+    {
+      "feed": "kr",
+      "name": "제3회 대한민국 AI광고대상",
+      "organizer": "마인드스파크",
+      "deadline": "2026-11-30",
+      "field": "AI 영상광고·AI 숏폼영상",
+      "reason": "지금 지원할 수 있는 국내 AI 공모전이에요.",
+      "host": "hankyung.com",
+      "url": "https://www.hankyung.com/article/202611111239i"
+    }
+  ]
+}
